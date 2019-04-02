@@ -1,10 +1,10 @@
 import pyrebase
 import bluetooth 
 config = {
-  "apiKey": "AIzaSyD2_8kswUxYsF0iBu3SEdnrAMJRZJFtaFg",
-  "authDomain": "scag-a0716.firebaseapp.com",
-  "databaseURL": "https://scag-a0716.firebaseio.com/",
-  "storageBucket": "gs://scag-a0716.appspot.com"
+  "apiKey": "Hidden",
+  "authDomain": "Hidden",
+  "databaseURL": "Hidden",
+  "storageBucket": "Hidden"
 }
 ######INITIALISE FIREBASE
 firebase = pyrebase.initialize_app(config)
